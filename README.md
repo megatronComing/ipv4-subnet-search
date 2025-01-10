@@ -1,6 +1,6 @@
 # ipv4-subnet-search
 ## Method 1 - command line
-search for minimum subnets which can accommodate give number os host machines
+search for minimum subnets which can accommodate given number of host machines
 Usage: find_subnet.py IP_ADDRESS/SUBNET_MASK_LEN HOST1 HOST2 HOST3
 Required libraries: ipaddress, tabulate
 Tested under:
